@@ -1,0 +1,3224 @@
+
+====================
+
+EXP_BUFF_ID_META PROCDEF
+--------------------
+
+====================
+
+--------------------
+
+Push:'2'
+Push:'W$'
+Push:'2'
+Push:'R$'
+====================
+
+EXP_BUFF_ID_META  LOCAL
+EXP_BUFF_ID_SUB_START 
+EXP_BUFF_ID_INTEGER 2
+Push:'2'
+                    000: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '2' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: '2' type:i (0), %:0
+                    001: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: '2' type:i (0), %:0
+                    001: 'W$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 2
+Push:'2'
+                    000: '2' type:i (0), %:0
+                    001: 'W$' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '2' type:i (0), %:0
+                    001: 'W$' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '2' type:i (0), %:0
+                    001: 'W$' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: '2' type:i (0), %:0
+                    001: 'W$' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+                    003: 'R$' type:s (2), %:0
+--------------------
+
+Push:'K%'
+Push:'S%'
+====================
+
+EXP_BUFF_ID_META  LOCAL
+EXP_BUFF_ID_VARIABLE K%
+Push:'K%'
+                    000: 'K%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE S%
+Push:'S%'
+                    000: 'K%' type:i (0), %:0
+                    001: 'S%' type:i (0), %:0
+--------------------
+
+Push:'5'
+Push:'S$'
+Push:'5'
+Push:'M$'
+Push:'5'
+Push:'H$'
+====================
+
+EXP_BUFF_ID_META  LOCAL
+EXP_BUFF_ID_SUB_START 
+EXP_BUFF_ID_INTEGER 5
+Push:'5'
+                    000: '5' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '5' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '5' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE S$
+Push:'S$'
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 5
+Push:'5'
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE M$
+Push:'M$'
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+                    003: 'M$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+                    003: 'M$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 5
+Push:'5'
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+                    003: 'M$' type:s (2), %:0
+                    004: '5' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+                    003: 'M$' type:s (2), %:0
+                    004: '5' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+                    003: 'M$' type:s (2), %:0
+                    004: '5' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE H$
+Push:'H$'
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+                    003: 'M$' type:s (2), %:0
+                    004: '5' type:i (0), %:0
+                    005: 'H$' type:s (2), %:0
+--------------------
+
+Push:'000'
+Push:'0'
+Pop: '0'
+Pop: '000'
+Push:'000'
+Pop: '000'
+====================
+
+EXP_BUFF_ID_META TEST_EXPR
+EXP_BUFF_ID_SUB_START 
+EXP_BUFF_ID_SUB_END 
+EXP_BUFF_ID_SUB_END 
+EXP_BUFF_ID_FUNCTION KEY
+Push:'000'
+                    000: '000' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 0
+Push:'0'
+                    000: '000' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR =
+Pop: '0'
+Pop: '000'
+Push:'000'
+                    000: '000' type:i (0), %:0
+EXP_BUFF_ID_WHILE WHILE
+Pop: '000'
+--------------------
+
+Push:'W$'
+Push:'0'
+Pop: '0'
+Push:'000'
+Pop: '000'
+Pop: 'W$'
+====================
+
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 0
+Push:'0'
+                    000: 'W$' type:s (2), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION CHR$
+Pop: '0'
+Push:'000'
+                    000: 'W$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'W$'
+--------------------
+
+Push:'R$'
+Push:'1'
+Push:'111'
+Push:'1'
+Push:'1'
+Push:'W$'
+Pop: 'W$'
+Pop: '1'
+Pop: '1'
+Pop: '111'
+Pop: '1'
+Push:'000'
+Pop: '000'
+Pop: 'R$'
+====================
+
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 111
+Push:'111'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_FUNCTION I2CWRRD
+Pop: 'W$'
+Pop: '1'
+Pop: '1'
+Pop: '111'
+Pop: '1'
+Push:'000'
+                    000: 'R$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'R$'
+--------------------
+
+Push:'S%'
+Push:'R$'
+Push:'1'
+Push:'1'
+Pop: '1'
+Pop: '1'
+Pop: 'R$'
+Push:'000'
+Pop: '000'
+Push:'000'
+Pop: '000'
+Pop: 'S%'
+====================
+
+EXP_BUFF_ID_VARIABLE S%
+Push:'S%'
+                    000: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION MID$
+Pop: '1'
+Pop: '1'
+Pop: 'R$'
+Push:'000'
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_FUNCTION ASC
+Pop: '000'
+Push:'000'
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'S%'
+--------------------
+
+Push:'S%'
+Push:'S%'
+Push:'127'
+Pop: '127'
+Pop: 'S%'
+Push:'000'
+Pop: '000'
+Pop: 'S%'
+====================
+
+EXP_BUFF_ID_VARIABLE S%
+Push:'S%'
+                    000: 'S%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE S%
+Push:'S%'
+                    000: 'S%' type:i (0), %:0
+                    001: 'S%' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 127
+Push:'127'
+                    000: 'S%' type:i (0), %:0
+                    001: 'S%' type:i (0), %:0
+                    002: '127' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR AND
+Pop: '127'
+Pop: 'S%'
+Push:'000'
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'S%'
+--------------------
+
+Push:'S$'
+Push:'"00"'
+Push:'S%'
+Pop: 'S%'
+Push:'000'
+Pop: '000'
+Pop: '"00"'
+Push:'000'
+Push:'2'
+Pop: '2'
+Pop: '000'
+Push:'000'
+Pop: '000'
+Pop: 'S$'
+====================
+
+EXP_BUFF_ID_VARIABLE S$
+Push:'S$'
+                    000: 'S$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S$' type:s (2), %:0
+EXP_BUFF_ID_STR "00"
+Push:'"00"'
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_VARIABLE S%
+Push:'S%'
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'S%' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION HEX$
+Pop: 'S%'
+Push:'000'
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR +
+Pop: '000'
+Pop: '"00"'
+Push:'000'
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 2
+Push:'2'
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION RIGHT$
+Pop: '2'
+Pop: '000'
+Push:'000'
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'S$'
+--------------------
+
+Push:'W$'
+Push:'1'
+Pop: '1'
+Push:'000'
+Pop: '000'
+Pop: 'W$'
+====================
+
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'W$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION CHR$
+Pop: '1'
+Push:'000'
+                    000: 'W$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'W$'
+--------------------
+
+Push:'R$'
+Push:'1'
+Push:'111'
+Push:'1'
+Push:'1'
+Push:'W$'
+Pop: 'W$'
+Pop: '1'
+Pop: '1'
+Pop: '111'
+Pop: '1'
+Push:'000'
+Pop: '000'
+Pop: 'R$'
+====================
+
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 111
+Push:'111'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_FUNCTION I2CWRRD
+Pop: 'W$'
+Pop: '1'
+Pop: '1'
+Pop: '111'
+Pop: '1'
+Push:'000'
+                    000: 'R$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'R$'
+--------------------
+
+Push:'M%'
+Push:'R$'
+Push:'1'
+Push:'1'
+Pop: '1'
+Pop: '1'
+Pop: 'R$'
+Push:'000'
+Pop: '000'
+Push:'000'
+Pop: '000'
+Pop: 'M%'
+====================
+
+EXP_BUFF_ID_VARIABLE M%
+Push:'M%'
+                    000: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION MID$
+Pop: '1'
+Pop: '1'
+Pop: 'R$'
+Push:'000'
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_FUNCTION ASC
+Pop: '000'
+Push:'000'
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'M%'
+--------------------
+
+Push:'M%'
+Push:'M%'
+Push:'127'
+Pop: '127'
+Pop: 'M%'
+Push:'000'
+Pop: '000'
+Pop: 'M%'
+====================
+
+EXP_BUFF_ID_VARIABLE M%
+Push:'M%'
+                    000: 'M%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE M%
+Push:'M%'
+                    000: 'M%' type:i (0), %:0
+                    001: 'M%' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 127
+Push:'127'
+                    000: 'M%' type:i (0), %:0
+                    001: 'M%' type:i (0), %:0
+                    002: '127' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR AND
+Pop: '127'
+Pop: 'M%'
+Push:'000'
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'M%'
+--------------------
+
+Push:'M$'
+Push:'"00"'
+Push:'M%'
+Pop: 'M%'
+Push:'000'
+Pop: '000'
+Pop: '"00"'
+Push:'000'
+Push:'2'
+Pop: '2'
+Pop: '000'
+Push:'000'
+Pop: '000'
+Pop: 'M$'
+====================
+
+EXP_BUFF_ID_VARIABLE M$
+Push:'M$'
+                    000: 'M$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M$' type:s (2), %:0
+EXP_BUFF_ID_STR "00"
+Push:'"00"'
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_VARIABLE M%
+Push:'M%'
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'M%' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION HEX$
+Pop: 'M%'
+Push:'000'
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR +
+Pop: '000'
+Pop: '"00"'
+Push:'000'
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 2
+Push:'2'
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION RIGHT$
+Pop: '2'
+Pop: '000'
+Push:'000'
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'M$'
+--------------------
+
+Push:'W$'
+Push:'2'
+Pop: '2'
+Push:'000'
+Pop: '000'
+Pop: 'W$'
+====================
+
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 2
+Push:'2'
+                    000: 'W$' type:s (2), %:0
+                    001: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '2' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION CHR$
+Pop: '2'
+Push:'000'
+                    000: 'W$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'W$'
+--------------------
+
+Push:'R$'
+Push:'1'
+Push:'111'
+Push:'1'
+Push:'1'
+Push:'W$'
+Pop: 'W$'
+Pop: '1'
+Pop: '1'
+Pop: '111'
+Pop: '1'
+Push:'000'
+Pop: '000'
+Pop: 'R$'
+====================
+
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 111
+Push:'111'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_FUNCTION I2CWRRD
+Pop: 'W$'
+Pop: '1'
+Pop: '1'
+Pop: '111'
+Pop: '1'
+Push:'000'
+                    000: 'R$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'R$'
+--------------------
+
+Push:'H%'
+Push:'R$'
+Push:'1'
+Push:'1'
+Pop: '1'
+Pop: '1'
+Pop: 'R$'
+Push:'000'
+Pop: '000'
+Push:'000'
+Pop: '000'
+Pop: 'H%'
+====================
+
+EXP_BUFF_ID_VARIABLE H%
+Push:'H%'
+                    000: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION MID$
+Pop: '1'
+Pop: '1'
+Pop: 'R$'
+Push:'000'
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_FUNCTION ASC
+Pop: '000'
+Push:'000'
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'H%'
+--------------------
+
+Push:'H%'
+Push:'H%'
+Push:'63'
+Pop: '63'
+Pop: 'H%'
+Push:'000'
+Pop: '000'
+Pop: 'H%'
+====================
+
+EXP_BUFF_ID_VARIABLE H%
+Push:'H%'
+                    000: 'H%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE H%
+Push:'H%'
+                    000: 'H%' type:i (0), %:0
+                    001: 'H%' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 63
+Push:'63'
+                    000: 'H%' type:i (0), %:0
+                    001: 'H%' type:i (0), %:0
+                    002: '63' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR AND
+Pop: '63'
+Pop: 'H%'
+Push:'000'
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'H%'
+--------------------
+
+Push:'H$'
+Push:'"00"'
+Push:'H%'
+Pop: 'H%'
+Push:'000'
+Pop: '000'
+Pop: '"00"'
+Push:'000'
+Push:'2'
+Pop: '2'
+Pop: '000'
+Push:'000'
+Pop: '000'
+Pop: 'H$'
+====================
+
+EXP_BUFF_ID_VARIABLE H$
+Push:'H$'
+                    000: 'H$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H$' type:s (2), %:0
+EXP_BUFF_ID_STR "00"
+Push:'"00"'
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_VARIABLE H%
+Push:'H%'
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'H%' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION HEX$
+Pop: 'H%'
+Push:'000'
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR +
+Pop: '000'
+Pop: '"00"'
+Push:'000'
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 2
+Push:'2'
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION RIGHT$
+Pop: '2'
+Pop: '000'
+Push:'000'
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'H$'
+--------------------
+
+Push:'0'
+Push:'0'
+Pop: '0'
+Pop: '0'
+====================
+
+EXP_BUFF_ID_SUB_START 
+EXP_BUFF_ID_INTEGER 0
+Push:'0'
+                    000: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: '0' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 0
+Push:'0'
+                    000: '0' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '0' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '0' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: '0' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '0' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '0' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION AT
+Pop: '0'
+Pop: '0'
+--------------------
+
+Push:'H$'
+Pop: 'H$'
+====================
+
+EXP_BUFF_ID_VARIABLE H$
+Push:'H$'
+                    000: 'H$' type:s (2), %:0
+EXP_BUFF_ID_PRINT PRINT
+Pop: 'H$'
+--------------------
+
+====================
+
+--------------------
+
+Push:'":"'
+Pop: '":"'
+====================
+
+EXP_BUFF_ID_STR ":"
+Push:'":"'
+                    000: '":"' type:s (2), %:0
+EXP_BUFF_ID_PRINT PRINT
+Pop: '":"'
+--------------------
+
+Push:'M$'
+Pop: 'M$'
+====================
+
+EXP_BUFF_ID_VARIABLE M$
+Push:'M$'
+                    000: 'M$' type:s (2), %:0
+EXP_BUFF_ID_PRINT PRINT
+Pop: 'M$'
+--------------------
+
+====================
+
+--------------------
+
+Push:'":"'
+Pop: '":"'
+====================
+
+EXP_BUFF_ID_STR ":"
+Push:'":"'
+                    000: '":"' type:s (2), %:0
+EXP_BUFF_ID_PRINT PRINT
+Pop: '":"'
+--------------------
+
+Push:'S$'
+Pop: 'S$'
+====================
+
+EXP_BUFF_ID_VARIABLE S$
+Push:'S$'
+                    000: 'S$' type:s (2), %:0
+EXP_BUFF_ID_PRINT PRINT
+Pop: 'S$'
+--------------------
+
+====================
+
+EXP_BUFF_ID_PRINT_NEWLINE PRINT
+--------------------
+
+====================
+
+--------------------
+
+====================
+
+EXP_BUFF_ID_ENDWH ENDWH
+--------------------
+
+====================
+
+--------------------
+
+====================
+
+EXP_BUFF_ID_META PROCDEF
+--------------------
+
+====================
+
+--------------------
+
+Push:'2'
+Push:'W$'
+Push:'2'
+Push:'R$'
+====================
+
+EXP_BUFF_ID_META  LOCAL
+EXP_BUFF_ID_SUB_START 
+EXP_BUFF_ID_INTEGER 2
+Push:'2'
+                    000: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '2' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: '2' type:i (0), %:0
+                    001: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: '2' type:i (0), %:0
+                    001: 'W$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 2
+Push:'2'
+                    000: '2' type:i (0), %:0
+                    001: 'W$' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '2' type:i (0), %:0
+                    001: 'W$' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '2' type:i (0), %:0
+                    001: 'W$' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: '2' type:i (0), %:0
+                    001: 'W$' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+                    003: 'R$' type:s (2), %:0
+--------------------
+
+Push:'K%'
+Push:'S%'
+====================
+
+EXP_BUFF_ID_META  LOCAL
+EXP_BUFF_ID_VARIABLE K%
+Push:'K%'
+                    000: 'K%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE S%
+Push:'S%'
+                    000: 'K%' type:i (0), %:0
+                    001: 'S%' type:i (0), %:0
+--------------------
+
+Push:'5'
+Push:'S$'
+Push:'5'
+Push:'M$'
+Push:'5'
+Push:'H$'
+====================
+
+EXP_BUFF_ID_META  LOCAL
+EXP_BUFF_ID_SUB_START 
+EXP_BUFF_ID_INTEGER 5
+Push:'5'
+                    000: '5' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '5' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '5' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE S$
+Push:'S$'
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 5
+Push:'5'
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE M$
+Push:'M$'
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+                    003: 'M$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+                    003: 'M$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 5
+Push:'5'
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+                    003: 'M$' type:s (2), %:0
+                    004: '5' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+                    003: 'M$' type:s (2), %:0
+                    004: '5' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+                    003: 'M$' type:s (2), %:0
+                    004: '5' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE H$
+Push:'H$'
+                    000: '5' type:i (0), %:0
+                    001: 'S$' type:s (2), %:0
+                    002: '5' type:i (0), %:0
+                    003: 'M$' type:s (2), %:0
+                    004: '5' type:i (0), %:0
+                    005: 'H$' type:s (2), %:0
+--------------------
+
+Push:'000'
+Push:'0'
+Pop: '0'
+Pop: '000'
+Push:'000'
+Pop: '000'
+====================
+
+EXP_BUFF_ID_META TEST_EXPR
+EXP_BUFF_ID_SUB_START 
+EXP_BUFF_ID_SUB_END 
+EXP_BUFF_ID_SUB_END 
+EXP_BUFF_ID_FUNCTION KEY
+Push:'000'
+                    000: '000' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 0
+Push:'0'
+                    000: '000' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR =
+Pop: '0'
+Pop: '000'
+Push:'000'
+                    000: '000' type:i (0), %:0
+EXP_BUFF_ID_WHILE WHILE
+Pop: '000'
+--------------------
+
+Push:'W$'
+Push:'0'
+Pop: '0'
+Push:'000'
+Pop: '000'
+Pop: 'W$'
+====================
+
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 0
+Push:'0'
+                    000: 'W$' type:s (2), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION CHR$
+Pop: '0'
+Push:'000'
+                    000: 'W$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'W$'
+--------------------
+
+Push:'R$'
+Push:'1'
+Push:'111'
+Push:'1'
+Push:'1'
+Push:'W$'
+Pop: 'W$'
+Pop: '1'
+Pop: '1'
+Pop: '111'
+Pop: '1'
+Push:'000'
+Pop: '000'
+Pop: 'R$'
+====================
+
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 111
+Push:'111'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_FUNCTION I2CWRRD
+Pop: 'W$'
+Pop: '1'
+Pop: '1'
+Pop: '111'
+Pop: '1'
+Push:'000'
+                    000: 'R$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'R$'
+--------------------
+
+Push:'S%'
+Push:'R$'
+Push:'1'
+Push:'1'
+Pop: '1'
+Pop: '1'
+Pop: 'R$'
+Push:'000'
+Pop: '000'
+Push:'000'
+Pop: '000'
+Pop: 'S%'
+====================
+
+EXP_BUFF_ID_VARIABLE S%
+Push:'S%'
+                    000: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION MID$
+Pop: '1'
+Pop: '1'
+Pop: 'R$'
+Push:'000'
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_FUNCTION ASC
+Pop: '000'
+Push:'000'
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'S%'
+--------------------
+
+Push:'S%'
+Push:'S%'
+Push:'127'
+Pop: '127'
+Pop: 'S%'
+Push:'000'
+Pop: '000'
+Pop: 'S%'
+====================
+
+EXP_BUFF_ID_VARIABLE S%
+Push:'S%'
+                    000: 'S%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE S%
+Push:'S%'
+                    000: 'S%' type:i (0), %:0
+                    001: 'S%' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 127
+Push:'127'
+                    000: 'S%' type:i (0), %:0
+                    001: 'S%' type:i (0), %:0
+                    002: '127' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR AND
+Pop: '127'
+Pop: 'S%'
+Push:'000'
+                    000: 'S%' type:i (0), %:0
+                    001: '000' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'S%'
+--------------------
+
+Push:'S$'
+Push:'"00"'
+Push:'S%'
+Pop: 'S%'
+Push:'000'
+Pop: '000'
+Pop: '"00"'
+Push:'000'
+Push:'2'
+Pop: '2'
+Pop: '000'
+Push:'000'
+Pop: '000'
+Pop: 'S$'
+====================
+
+EXP_BUFF_ID_VARIABLE S$
+Push:'S$'
+                    000: 'S$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S$' type:s (2), %:0
+EXP_BUFF_ID_STR "00"
+Push:'"00"'
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_VARIABLE S%
+Push:'S%'
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'S%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'S%' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION HEX$
+Pop: 'S%'
+Push:'000'
+                    000: 'S$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR +
+Pop: '000'
+Pop: '"00"'
+Push:'000'
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 2
+Push:'2'
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION RIGHT$
+Pop: '2'
+Pop: '000'
+Push:'000'
+                    000: 'S$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'S$'
+--------------------
+
+Push:'W$'
+Push:'1'
+Pop: '1'
+Push:'000'
+Pop: '000'
+Pop: 'W$'
+====================
+
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'W$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION CHR$
+Pop: '1'
+Push:'000'
+                    000: 'W$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'W$'
+--------------------
+
+Push:'R$'
+Push:'1'
+Push:'111'
+Push:'1'
+Push:'1'
+Push:'W$'
+Pop: 'W$'
+Pop: '1'
+Pop: '1'
+Pop: '111'
+Pop: '1'
+Push:'000'
+Pop: '000'
+Pop: 'R$'
+====================
+
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 111
+Push:'111'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_FUNCTION I2CWRRD
+Pop: 'W$'
+Pop: '1'
+Pop: '1'
+Pop: '111'
+Pop: '1'
+Push:'000'
+                    000: 'R$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'R$'
+--------------------
+
+Push:'M%'
+Push:'R$'
+Push:'1'
+Push:'1'
+Pop: '1'
+Pop: '1'
+Pop: 'R$'
+Push:'000'
+Pop: '000'
+Push:'000'
+Pop: '000'
+Pop: 'M%'
+====================
+
+EXP_BUFF_ID_VARIABLE M%
+Push:'M%'
+                    000: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION MID$
+Pop: '1'
+Pop: '1'
+Pop: 'R$'
+Push:'000'
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_FUNCTION ASC
+Pop: '000'
+Push:'000'
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'M%'
+--------------------
+
+Push:'M%'
+Push:'M%'
+Push:'127'
+Pop: '127'
+Pop: 'M%'
+Push:'000'
+Pop: '000'
+Pop: 'M%'
+====================
+
+EXP_BUFF_ID_VARIABLE M%
+Push:'M%'
+                    000: 'M%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE M%
+Push:'M%'
+                    000: 'M%' type:i (0), %:0
+                    001: 'M%' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 127
+Push:'127'
+                    000: 'M%' type:i (0), %:0
+                    001: 'M%' type:i (0), %:0
+                    002: '127' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR AND
+Pop: '127'
+Pop: 'M%'
+Push:'000'
+                    000: 'M%' type:i (0), %:0
+                    001: '000' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'M%'
+--------------------
+
+Push:'M$'
+Push:'"00"'
+Push:'M%'
+Pop: 'M%'
+Push:'000'
+Pop: '000'
+Pop: '"00"'
+Push:'000'
+Push:'2'
+Pop: '2'
+Pop: '000'
+Push:'000'
+Pop: '000'
+Pop: 'M$'
+====================
+
+EXP_BUFF_ID_VARIABLE M$
+Push:'M$'
+                    000: 'M$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M$' type:s (2), %:0
+EXP_BUFF_ID_STR "00"
+Push:'"00"'
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_VARIABLE M%
+Push:'M%'
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'M%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'M%' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION HEX$
+Pop: 'M%'
+Push:'000'
+                    000: 'M$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR +
+Pop: '000'
+Pop: '"00"'
+Push:'000'
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 2
+Push:'2'
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION RIGHT$
+Pop: '2'
+Pop: '000'
+Push:'000'
+                    000: 'M$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'M$'
+--------------------
+
+Push:'W$'
+Push:'2'
+Pop: '2'
+Push:'000'
+Pop: '000'
+Pop: 'W$'
+====================
+
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'W$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 2
+Push:'2'
+                    000: 'W$' type:s (2), %:0
+                    001: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'W$' type:s (2), %:0
+                    001: '2' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION CHR$
+Pop: '2'
+Push:'000'
+                    000: 'W$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'W$'
+--------------------
+
+Push:'R$'
+Push:'1'
+Push:'111'
+Push:'1'
+Push:'1'
+Push:'W$'
+Pop: 'W$'
+Pop: '1'
+Pop: '1'
+Pop: '111'
+Pop: '1'
+Push:'000'
+Pop: '000'
+Pop: 'R$'
+====================
+
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 111
+Push:'111'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE W$
+Push:'W$'
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'R$' type:s (2), %:0
+                    001: '1' type:i (0), %:0
+                    002: '111' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+                    004: '1' type:i (0), %:0
+                    005: 'W$' type:s (2), %:0
+EXP_BUFF_ID_FUNCTION I2CWRRD
+Pop: 'W$'
+Pop: '1'
+Pop: '1'
+Pop: '111'
+Pop: '1'
+Push:'000'
+                    000: 'R$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'R$'
+--------------------
+
+Push:'H%'
+Push:'R$'
+Push:'1'
+Push:'1'
+Pop: '1'
+Pop: '1'
+Pop: 'R$'
+Push:'000'
+Pop: '000'
+Push:'000'
+Pop: '000'
+Pop: 'H%'
+====================
+
+EXP_BUFF_ID_VARIABLE H%
+Push:'H%'
+                    000: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE R$
+Push:'R$'
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 1
+Push:'1'
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: 'R$' type:s (2), %:0
+                    002: '1' type:i (0), %:0
+                    003: '1' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION MID$
+Pop: '1'
+Pop: '1'
+Pop: 'R$'
+Push:'000'
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_FUNCTION ASC
+Pop: '000'
+Push:'000'
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'H%'
+--------------------
+
+Push:'H%'
+Push:'H%'
+Push:'63'
+Pop: '63'
+Pop: 'H%'
+Push:'000'
+Pop: '000'
+Pop: 'H%'
+====================
+
+EXP_BUFF_ID_VARIABLE H%
+Push:'H%'
+                    000: 'H%' type:i (0), %:0
+EXP_BUFF_ID_VARIABLE H%
+Push:'H%'
+                    000: 'H%' type:i (0), %:0
+                    001: 'H%' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 63
+Push:'63'
+                    000: 'H%' type:i (0), %:0
+                    001: 'H%' type:i (0), %:0
+                    002: '63' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR AND
+Pop: '63'
+Pop: 'H%'
+Push:'000'
+                    000: 'H%' type:i (0), %:0
+                    001: '000' type:i (0), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'H%'
+--------------------
+
+Push:'H$'
+Push:'"00"'
+Push:'H%'
+Pop: 'H%'
+Push:'000'
+Pop: '000'
+Pop: '"00"'
+Push:'000'
+Push:'2'
+Pop: '2'
+Pop: '000'
+Push:'000'
+Pop: '000'
+Pop: 'H$'
+====================
+
+EXP_BUFF_ID_VARIABLE H$
+Push:'H$'
+                    000: 'H$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H$' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H$' type:s (2), %:0
+EXP_BUFF_ID_STR "00"
+Push:'"00"'
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+EXP_BUFF_ID_VARIABLE H%
+Push:'H%'
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'H%' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: 'H%' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION HEX$
+Pop: 'H%'
+Push:'000'
+                    000: 'H$' type:s (2), %:0
+                    001: '"00"' type:s (2), %:0
+                    002: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR +
+Pop: '000'
+Pop: '"00"'
+Push:'000'
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_INTEGER 2
+Push:'2'
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+                    002: '2' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION RIGHT$
+Pop: '2'
+Pop: '000'
+Push:'000'
+                    000: 'H$' type:s (2), %:0
+                    001: '000' type:s (2), %:0
+EXP_BUFF_ID_OPERATOR :=
+Pop: '000'
+Pop: 'H$'
+--------------------
+
+Push:'0'
+Push:'0'
+Pop: '0'
+Pop: '0'
+====================
+
+EXP_BUFF_ID_SUB_START 
+EXP_BUFF_ID_INTEGER 0
+Push:'0'
+                    000: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: '0' type:i (0), %:0
+EXP_BUFF_ID_INTEGER 0
+Push:'0'
+                    000: '0' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '0' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '0' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_START 
+                    000: '0' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '0' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_SUB_END 
+                    000: '0' type:i (0), %:0
+                    001: '0' type:i (0), %:0
+EXP_BUFF_ID_FUNCTION AT
+Pop: '0'
+Pop: '0'
+--------------------
+
+Push:'H$'
+Pop: 'H$'
+====================
+
+EXP_BUFF_ID_VARIABLE H$
+Push:'H$'
+                    000: 'H$' type:s (2), %:0
+EXP_BUFF_ID_PRINT PRINT
+Pop: 'H$'
+--------------------
+
+====================
+
+--------------------
+
+Push:'":"'
+Pop: '":"'
+====================
+
+EXP_BUFF_ID_STR ":"
+Push:'":"'
+                    000: '":"' type:s (2), %:0
+EXP_BUFF_ID_PRINT PRINT
+Pop: '":"'
+--------------------
+
+Push:'M$'
+Pop: 'M$'
+====================
+
+EXP_BUFF_ID_VARIABLE M$
+Push:'M$'
+                    000: 'M$' type:s (2), %:0
+EXP_BUFF_ID_PRINT PRINT
+Pop: 'M$'
+--------------------
+
+====================
+
+--------------------
+
+Push:'":"'
+Pop: '":"'
+====================
+
+EXP_BUFF_ID_STR ":"
+Push:'":"'
+                    000: '":"' type:s (2), %:0
+EXP_BUFF_ID_PRINT PRINT
+Pop: '":"'
+--------------------
+
+Push:'S$'
+Pop: 'S$'
+====================
+
+EXP_BUFF_ID_VARIABLE S$
+Push:'S$'
+                    000: 'S$' type:s (2), %:0
+EXP_BUFF_ID_PRINT PRINT
+Pop: 'S$'
+--------------------
+
+====================
+
+EXP_BUFF_ID_PRINT_NEWLINE PRINT
+--------------------
+
+====================
+
+--------------------
+
+====================
+
+EXP_BUFF_ID_ENDWH ENDWH
+--------------------
+
+====================
+
+--------------------

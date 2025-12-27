@@ -1,0 +1,36 @@
+
+RC1.OPL:
+
+REM READ I2C CLOCK
+
+LOCAL W$(2),R$(2)
+LOCAL k%,S%
+LOCAL S$(5),M$(5),H$(5)
+
+WHILE KEY=0
+
+W$=CHR$(0)
+r$ = I2CWRRD(1,111,1,1,W$)
+S%= ASC(MID$(R$,1,1))
+S%=S%AND 127
+S$=RIGHT$("00"+HEX$(S%), 2)
+
+W$=CHR$(1)
+r$ = I2CWRRD(1,111,1,1,W$)
+M%= ASC(MID$(R$,1,1))
+M%=M%AND $7F
+M$=RIGHT$("00"+HEX$(M%), 2)
+
+W$=CHR$(2)
+r$ = I2CWRRD(1,111,1,1,W$)
+H%= ASC(MID$(R$,1,1))
+H%=H%AND $3F
+H$=RIGHT$("00"+HEX$(H%), 2)
+
+AT 0,0
+PRINT H$;
+PRINT ":";M$;
+PRINT ":";S$    
+ENDWH
+
+

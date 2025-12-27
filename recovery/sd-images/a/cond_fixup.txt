@@ -1,0 +1,4 @@
+
+0000: EXP_BUFF_ID_TEST_EXPR     Level:  2 Offset:0002 Target:0002 Label:''
+0001: EXP_BUFF_ID_WHILE         Level:  2 Offset:0008 Target:0002 Label:''
+0002: EXP_BUFF_ID_ENDWH         Level:  2 Offset:00FF Target:0101 Label:''

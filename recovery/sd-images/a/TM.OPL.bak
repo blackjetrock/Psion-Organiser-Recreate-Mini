@@ -1,0 +1,9 @@
+
+TM:
+LOCAL H%,M%,S%
+H%=HOUR
+
+PRINT H%
+
+GET
+

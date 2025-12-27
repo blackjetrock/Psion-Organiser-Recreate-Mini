@@ -1,0 +1,13 @@
+
+RC1.OPL:
+
+REM READ I2C CLOCK
+
+LOCAL W$(2),R$(2)
+
+W$=CHR$(0)
+r$ = I2CWRRD(1,111,1,1,W$)
+
+PRINT ASC(MID$(R$,1,1))
+GET
+

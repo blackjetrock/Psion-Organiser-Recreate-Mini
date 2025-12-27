@@ -1,0 +1,9 @@
+
+TON:
+
+LOCAL I%
+I%=1000
+WHILE I%>0
+I=I%-1
+ENDWH
+

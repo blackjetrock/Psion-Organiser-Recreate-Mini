@@ -1,0 +1,89 @@
+
+Dropping OB3 header...
+reading proc file
+
+Dumping proc
+
+Enter:dump_proc
+Var Space Size:0006
+QCode Space Size:0052
+Number of parameters:00
+Parameter types:
+Global varname Size:0000
+Global variables (0)
+
+External varname Size:0004
+External variables (1)
+ 0: I%               INT    (00)
+
+String length fixups (0)
+
+Array size fixups (0)
+
+QCode
+
+0000: 59       STOP     (bytes code:-)
+0001: B2       SIN     (bytes code:-)
+0002: 0D       Push local/global integer variable reference     (bytes code:v)
+0003: FFFA       (65530)
+0005: 24       Push string literal     (bytes code:S)
+0006: Len:8
+0007: 'TEN FIVE'
+000F: 98       MENU     (bytes code:-)
+0010: 7F       Assign integer     (bytes code:-)
+0011: 00       Push local/global integer variable value     (bytes code:v)
+0012: FFFA       (65530)
+0014: 22       Push integer literal     (bytes code:I)
+0015: 0001       (1)
+0017: 2C       Equal integer     (bytes code:-)
+0018: 7E       Branch if false     (bytes code:D)
+0019: Dest:0021 (Dist:0008)
+001B: 24       Push string literal     (bytes code:S)
+001C: Len:3
+001D: 'TEN'
+0020: F4 ????
+0021: 00       Push local/global integer variable value     (bytes code:v)
+0022: FFFA       (65530)
+0024: 22       Push integer literal     (bytes code:I)
+0025: 0002       (2)
+0027: 2C       Equal integer     (bytes code:-)
+0028: 7E       Branch if false     (bytes code:D)
+0029: Dest:0051 (Dist:0028)
+002B: 14       Push parameter/external integer variable reference     (bytes code:V)
+002C: FFFC       (65532)
+002E: 22       Push integer literal     (bytes code:I)
+002F: 0001       (1)
+0031: 7F       Assign integer     (bytes code:-)
+0032: 07       Push parameter/external integer variable value     (bytes code:V)
+0033: FFFC       (65532)
+0035: 22       Push integer literal     (bytes code:I)
+0036: 0005       (5)
+0038: 28       Less than equal integer     (bytes code:-)
+0039: 7E       Branch if false     (bytes code:D)
+003A: Dest:0051 (Dist:0017)
+003C: 07       Push parameter/external integer variable value     (bytes code:V)
+003D: FFFC       (65532)
+003F: 86       autoconversion int to float     (bytes code:-)
+0040: C3       NUM$     (bytes code:-)
+0041: 71       PRINT string     (bytes code:-)
+0042: 73       PRINT newline     (bytes code:-)
+0043: 14       Push parameter/external integer variable reference     (bytes code:V)
+0044: FFFC       (65532)
+0046: 07       Push parameter/external integer variable value     (bytes code:V)
+0047: FFFC       (65532)
+0049: 22       Push integer literal     (bytes code:I)
+004A: 0001       (1)
+004C: 2D       Plus integer     (bytes code:-)
+004D: 7F       Assign integer     (bytes code:-)
+004E: 51       GOTO     (bytes code:D)
+004F: Dest:0032 (Dist:FFFFFFE3)
+0051: 7B       RETURN (float 0)     (bytes code:-)
+
+QCode Data
+
+0000:59 B2 0D FF FA 24 08 54 45 4E 20 46 49 56 45 98 
+0010:7F 00 FF FA 22 00 01 2C 7E 00 08 24 03 54 45 4E 
+0020:F4 00 FF FA 22 00 02 2C 7E 00 28 14 FF FC 22 00 
+0030:01 7F 07 FF FC 22 00 05 28 7E 00 17 07 FF FC 86 
+0040:C3 71 73 14 FF FC 07 FF FC 22 00 01 2D 7F 51 FF 
+0050:E3 7B 

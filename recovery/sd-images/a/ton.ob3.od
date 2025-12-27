@@ -1,0 +1,56 @@
+
+Dropping OB3 header...
+reading proc file
+
+Dumping proc
+
+Enter:dump_proc
+Var Space Size:0006
+QCode Space Size:0023
+Number of parameters:00
+Parameter types:
+Global varname Size:0000
+Global variables (0)
+
+External varname Size:0003
+External variables (1)
+ 0: I                FLT    (01)
+
+String length fixups (0)
+
+Array size fixups (0)
+
+QCode
+
+0000: 59       STOP     (bytes code:-)
+0001: B2       SIN     (bytes code:-)
+0002: 0D       Push local/global integer variable reference     (bytes code:v)
+0003: FFFA       (65530)
+0005: 22       Push integer literal     (bytes code:I)
+0006: 03E8       (1000)
+0008: 7F       Assign integer     (bytes code:-)
+0009: 00       Push local/global integer variable value     (bytes code:v)
+000A: FFFA       (65530)
+000C: 22       Push integer literal     (bytes code:I)
+000D: 0000       (0)
+000F: 29       Greater than integer     (bytes code:-)
+0010: 7E       Branch if false     (bytes code:D)
+0011: Dest:0022 (Dist:0011)
+0013: 15       Push parameter/external float variable reference     (bytes code:V)
+0014: FFFC       (65532)
+0016: 00       Push local/global integer variable value     (bytes code:v)
+0017: FFFA       (65530)
+0019: 22       Push integer literal     (bytes code:I)
+001A: 0001       (1)
+001C: 2E       Minus integer     (bytes code:-)
+001D: 86       autoconversion int to float     (bytes code:-)
+001E: 80       Assign float     (bytes code:-)
+001F: 51       GOTO     (bytes code:D)
+0020: Dest:0009 (Dist:FFFFFFE9)
+0022: 7B       RETURN (float 0)     (bytes code:-)
+
+QCode Data
+
+0000:59 B2 0D FF FA 22 03 E8 7F 00 FF FA 22 00 00 29 
+0010:7E 00 11 15 FF FC 00 FF FA 22 00 01 2E 86 80 51 
+0020:FF E9 7B 

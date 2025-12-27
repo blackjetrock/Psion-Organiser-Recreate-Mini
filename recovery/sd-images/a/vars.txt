@@ -1,0 +1,12 @@
+
+Variables
+
+   0:  VAR: '                W$'      Local String            DECLARE max_str:  2 max_ary:  0 num_ind:  1 offset:FFF7
+   1:  VAR: '                R$'      Local String            DECLARE max_str:  2 max_ary:  0 num_ind:  1 offset:FFF3
+   2:  VAR: '                K%'      Local Integer           DECLARE max_str:  0 max_ary:  0 num_ind:  0 offset:FFF0
+   3:  VAR: '                S%'      Local Integer           DECLARE max_str:  0 max_ary:  0 num_ind:  0 offset:FFEE
+   4:  VAR: '                S$'      Local String            DECLARE max_str:  5 max_ary:  0 num_ind:  1 offset:FFE8
+   5:  VAR: '                M$'      Local String            DECLARE max_str:  5 max_ary:  0 num_ind:  1 offset:FFE1
+   6:  VAR: '                H$'      Local String            DECLARE max_str:  5 max_ary:  0 num_ind:  1 offset:FFDA
+   7:  VAR: '                M%'   External Integer           REFRNCE max_str:  0 max_ary:  0 num_ind:  0 offset:FFFC
+   8:  VAR: '                H%'   External Integer           REFRNCE max_str:  0 max_ary:  0 num_ind:  0 offset:FFFA

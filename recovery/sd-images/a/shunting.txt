@@ -1,0 +1,2442 @@
+
+PROCDEF
+
+ LOCAL
+
+(
+          000:type:U '('
+
+2
+          000:type:U '('
+
+)
+
+W$
+
+,
+
+(
+          000:type:U '('
+
+2
+          000:type:U '('
+
+)
+
+R$
+
+ LOCAL
+
+K%
+
+,
+
+S%
+
+ LOCAL
+
+(
+          000:type:U '('
+
+5
+          000:type:U '('
+
+)
+
+S$
+
+,
+
+(
+          000:type:U '('
+
+5
+          000:type:U '('
+
+)
+
+M$
+
+,
+
+(
+          000:type:U '('
+
+5
+          000:type:U '('
+
+)
+
+H$
+
+TEST_EXPR
+
+(
+          000:type:U '('
+
+)
+
+KEY
+          000:type:i 'KEY'
+
+=
+          000:type:U '='
+
+0
+          000:type:U '='
+
+W$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+0
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+CHR$
+          000:type:s ':='
+          001:type:s 'CHR$'
+
+R$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+111
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+W$
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+I2CWRRD
+          000:type:s ':='
+          001:type:s 'I2CWRRD'
+
+S%
+
+:=
+          000:type:i ':='
+
+(
+          000:type:i ':='
+          001:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+R$
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+,
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+1
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+,
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+1
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+
+MID$
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s 'MID$'
+
+)
+          000:type:i ':='
+          001:type:U '('
+
+)
+          000:type:i ':='
+
+ASC
+          000:type:i ':='
+          001:type:i 'ASC'
+
+S%
+
+:=
+          000:type:i ':='
+
+S%
+          000:type:i ':='
+
+AND
+          000:type:i ':='
+          001:type:i 'AND'
+
+127
+          000:type:i ':='
+          001:type:i 'AND'
+
+S$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+"00"
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
++
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+          005:type:U '('
+
+S%
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+          005:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+
+HEX$
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:s 'HEX$'
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+2
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+RIGHT$
+          000:type:s ':='
+          001:type:s 'RIGHT$'
+
+W$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+CHR$
+          000:type:s ':='
+          001:type:s 'CHR$'
+
+R$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+111
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+W$
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+I2CWRRD
+          000:type:s ':='
+          001:type:s 'I2CWRRD'
+
+M%
+
+:=
+          000:type:i ':='
+
+(
+          000:type:i ':='
+          001:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+R$
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+,
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+1
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+,
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+1
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+
+MID$
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s 'MID$'
+
+)
+          000:type:i ':='
+          001:type:U '('
+
+)
+          000:type:i ':='
+
+ASC
+          000:type:i ':='
+          001:type:i 'ASC'
+
+M%
+
+:=
+          000:type:i ':='
+
+M%
+          000:type:i ':='
+
+AND
+          000:type:i ':='
+          001:type:i 'AND'
+
+127
+          000:type:i ':='
+          001:type:i 'AND'
+
+M$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+"00"
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
++
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+          005:type:U '('
+
+M%
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+          005:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+
+HEX$
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:s 'HEX$'
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+2
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+RIGHT$
+          000:type:s ':='
+          001:type:s 'RIGHT$'
+
+W$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+2
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+CHR$
+          000:type:s ':='
+          001:type:s 'CHR$'
+
+R$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+111
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+W$
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+I2CWRRD
+          000:type:s ':='
+          001:type:s 'I2CWRRD'
+
+H%
+
+:=
+          000:type:i ':='
+
+(
+          000:type:i ':='
+          001:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+R$
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+,
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+1
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+,
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+1
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+
+MID$
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s 'MID$'
+
+)
+          000:type:i ':='
+          001:type:U '('
+
+)
+          000:type:i ':='
+
+ASC
+          000:type:i ':='
+          001:type:i 'ASC'
+
+H%
+
+:=
+          000:type:i ':='
+
+H%
+          000:type:i ':='
+
+AND
+          000:type:i ':='
+          001:type:i 'AND'
+
+63
+          000:type:i ':='
+          001:type:i 'AND'
+
+H$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+"00"
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
++
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+          005:type:U '('
+
+H%
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+          005:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+
+HEX$
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:s 'HEX$'
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+2
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+RIGHT$
+          000:type:s ':='
+          001:type:s 'RIGHT$'
+
+AT
+          000:type:v 'AT'
+
+(
+          000:type:v 'AT'
+          001:type:U '('
+
+0
+          000:type:v 'AT'
+          001:type:U '('
+
+)
+          000:type:v 'AT'
+
+,
+          000:type:v 'AT'
+
+(
+          000:type:v 'AT'
+          001:type:U '('
+
+0
+          000:type:v 'AT'
+          001:type:U '('
+
+)
+          000:type:v 'AT'
+
+(
+          000:type:v 'AT'
+          001:type:U '('
+
+)
+          000:type:v 'AT'
+
+H$
+
+;
+
+":"
+
+;
+
+M$
+
+;
+
+":"
+
+;
+
+S$
+
+PRINT
+          000:type:U 'PRINT'
+
+ENDWH
+
+PROCDEF
+
+ LOCAL
+
+(
+          000:type:U '('
+
+2
+          000:type:U '('
+
+)
+
+W$
+
+,
+
+(
+          000:type:U '('
+
+2
+          000:type:U '('
+
+)
+
+R$
+
+ LOCAL
+
+K%
+
+,
+
+S%
+
+ LOCAL
+
+(
+          000:type:U '('
+
+5
+          000:type:U '('
+
+)
+
+S$
+
+,
+
+(
+          000:type:U '('
+
+5
+          000:type:U '('
+
+)
+
+M$
+
+,
+
+(
+          000:type:U '('
+
+5
+          000:type:U '('
+
+)
+
+H$
+
+TEST_EXPR
+
+(
+          000:type:U '('
+
+)
+
+KEY
+          000:type:i 'KEY'
+
+=
+          000:type:U '='
+
+0
+          000:type:U '='
+
+W$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+0
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+CHR$
+          000:type:s ':='
+          001:type:s 'CHR$'
+
+R$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+111
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+W$
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+I2CWRRD
+          000:type:s ':='
+          001:type:s 'I2CWRRD'
+
+S%
+
+:=
+          000:type:i ':='
+
+(
+          000:type:i ':='
+          001:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+R$
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+,
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+1
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+,
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+1
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+
+MID$
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s 'MID$'
+
+)
+          000:type:i ':='
+          001:type:U '('
+
+)
+          000:type:i ':='
+
+ASC
+          000:type:i ':='
+          001:type:i 'ASC'
+
+S%
+
+:=
+          000:type:i ':='
+
+S%
+          000:type:i ':='
+
+AND
+          000:type:i ':='
+          001:type:i 'AND'
+
+127
+          000:type:i ':='
+          001:type:i 'AND'
+
+S$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+"00"
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
++
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+          005:type:U '('
+
+S%
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+          005:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+
+HEX$
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:s 'HEX$'
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+2
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+RIGHT$
+          000:type:s ':='
+          001:type:s 'RIGHT$'
+
+W$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+CHR$
+          000:type:s ':='
+          001:type:s 'CHR$'
+
+R$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+111
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+W$
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+I2CWRRD
+          000:type:s ':='
+          001:type:s 'I2CWRRD'
+
+M%
+
+:=
+          000:type:i ':='
+
+(
+          000:type:i ':='
+          001:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+R$
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+,
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+1
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+,
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+1
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+
+MID$
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s 'MID$'
+
+)
+          000:type:i ':='
+          001:type:U '('
+
+)
+          000:type:i ':='
+
+ASC
+          000:type:i ':='
+          001:type:i 'ASC'
+
+M%
+
+:=
+          000:type:i ':='
+
+M%
+          000:type:i ':='
+
+AND
+          000:type:i ':='
+          001:type:i 'AND'
+
+127
+          000:type:i ':='
+          001:type:i 'AND'
+
+M$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+"00"
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
++
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+          005:type:U '('
+
+M%
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+          005:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+
+HEX$
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:s 'HEX$'
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+2
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+RIGHT$
+          000:type:s ':='
+          001:type:s 'RIGHT$'
+
+W$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+2
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+CHR$
+          000:type:s ':='
+          001:type:s 'CHR$'
+
+R$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+111
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+1
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+W$
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+I2CWRRD
+          000:type:s ':='
+          001:type:s 'I2CWRRD'
+
+H%
+
+:=
+          000:type:i ':='
+
+(
+          000:type:i ':='
+          001:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+R$
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+,
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+1
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+,
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+(
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+1
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+          004:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:U '('
+
+)
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+
+MID$
+          000:type:i ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s 'MID$'
+
+)
+          000:type:i ':='
+          001:type:U '('
+
+)
+          000:type:i ':='
+
+ASC
+          000:type:i ':='
+          001:type:i 'ASC'
+
+H%
+
+:=
+          000:type:i ':='
+
+H%
+          000:type:i ':='
+
+AND
+          000:type:i ':='
+          001:type:i 'AND'
+
+63
+          000:type:i ':='
+          001:type:i 'AND'
+
+H$
+
+:=
+          000:type:s ':='
+
+(
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+"00"
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
++
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+          005:type:U '('
+
+H%
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+          005:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+
+HEX$
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+          003:type:s '+'
+          004:type:s 'HEX$'
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+,
+          000:type:s ':='
+          001:type:U '('
+
+(
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+2
+          000:type:s ':='
+          001:type:U '('
+          002:type:U '('
+
+)
+          000:type:s ':='
+          001:type:U '('
+
+)
+          000:type:s ':='
+
+RIGHT$
+          000:type:s ':='
+          001:type:s 'RIGHT$'
+
+AT
+          000:type:v 'AT'
+
+(
+          000:type:v 'AT'
+          001:type:U '('
+
+0
+          000:type:v 'AT'
+          001:type:U '('
+
+)
+          000:type:v 'AT'
+
+,
+          000:type:v 'AT'
+
+(
+          000:type:v 'AT'
+          001:type:U '('
+
+0
+          000:type:v 'AT'
+          001:type:U '('
+
+)
+          000:type:v 'AT'
+
+(
+          000:type:v 'AT'
+          001:type:U '('
+
+)
+          000:type:v 'AT'
+
+H$
+
+;
+
+":"
+
+;
+
+M$
+
+;
+
+":"
+
+;
+
+S$
+
+PRINT
+          000:type:U 'PRINT'
+
+ENDWH

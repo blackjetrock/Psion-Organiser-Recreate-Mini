@@ -1,0 +1,8 @@
+CIRC:
+LOCAL X%,Y%,I%
+
+I%=0
+WHILE I%<100
+
+ENDWH
+
