@@ -2,7 +2,8 @@
 Files for the Psion Organiser Mini recreation
 
 The repository structure:
-.
+<pre>
+
 ├── README.md
 └── recovery
     ├── code
@@ -14,6 +15,7 @@ The repository structure:
     │       └── diag_pico2.uf2
     └── sd-images
         └── a
+</pre>
 
 recovery
 --------
